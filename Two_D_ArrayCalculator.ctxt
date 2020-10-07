@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=array
+comment0.target=Two_D_ArrayCalculator(int[][])
+comment0.text=\n\ Constructor\n\ \n\ @param\ \ array\ \ \ a\ 2-D\ array\ of\ integers\n
+comment1.params=array
+comment1.target=void\ set2Darray(int[][])
+comment1.text=\n\ Mutator\ method\ for\ the\ instance\ 2-D\ array\n\ \n\ @param\ \ array\ \ \ a\ 2-D\ array\ of\ integers\n
+comment2.params=
+comment2.target=int[][]\ get2Darray()
+comment2.text=\n\ Accessor\ method\ for\ the\ instance\ 2-D\ array\n\ \n\ @return\ \ the\ instance\ 2-D\ array\ of\ integers\n
+comment3.params=
+comment3.target=int\ findSum()
+comment3.text=\n\ finds\ the\ sum\ of\ the\ values\ in\ a\ 2-D\ my2DintArray\ of\ integers\n\ \n\ @return\ \ \ \ \ the\ sum\ of\ all\ integers\ in\ the\ my2DintArray\ \n
+comment4.params=
+comment4.target=double\ findMean()
+comment4.text=\n\ finds\ the\ average\ of\ values\ in\ a\ 2-D\ my2DintArray\ of\ integers\n\ \n\ @return\ \ \ \ \ the\ mean\ of\ all\ integers\ in\ the\ my2DintArray\ \n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ toString\n\ \n\ @return\ \ \ \ \ a\ String\ representation\ of\ array\ contents\ \n
+numComments=6
